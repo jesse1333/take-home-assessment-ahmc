@@ -107,7 +107,7 @@ Furthermore, the hybrid rule-based extraction acted as a primary defense mechani
 **Link to deployed application:**  
 https://take-home-assessment-ahmc-web.vercel.app/
 
-**Note:**  
+**[IMPORTANT] Note:**  
 Because this project uses the free tier of Google AI Studio (gemini-2.5-flash), it is subject to strict global rate limits. If you receive a 429 (Resource Exhausted) or 500 error when clicking "Generate," it means the free API quota has temporarily been throttled by Google. Please simply wait a few seconds and try generating again.
 
 ---
